@@ -11,6 +11,9 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=HoangLong1806&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### Certification
+![Uploading udemy_eventsourcing.jpg…]()
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
