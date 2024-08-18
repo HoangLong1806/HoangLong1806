@@ -13,7 +13,7 @@
 # <h1 align="center">📊GitHub Stats :</h1>
 ![](https://github-readme-stats.vercel.app/api?username=HoangLong1806&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HoangLong1806&theme=yeblu&hide_border=false)
-<h1 align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangLong1806&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</h1>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangLong1806&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## <h1 align="center">🏆GitHub Trophies</h1>
 ![](https://github-trophies.vercel.app/?username=HoangLong1806&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
