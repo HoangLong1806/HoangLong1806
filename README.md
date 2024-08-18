@@ -19,4 +19,4 @@
 ![](https://github-trophies.vercel.app/?username=HoangLong1806&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HoangLong1806&icon=2&color=0)](https://visitcount.itsvg.in)
+
