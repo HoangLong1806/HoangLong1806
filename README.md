@@ -1,1 +1,1 @@
-<img align="right" width="64" src="https://github.com/account" />
+<h2 align="center">Hi 👋, I'm DANG HOANG LONG </h2>
