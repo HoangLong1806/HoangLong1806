@@ -74,7 +74,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="HoangLong1806-facebook" />
   </a>
   <!-- <a href="https://youtube.com/@trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="HoangLong1806-youtube" />
+    <img src="https://img.icons8.com/?size=100&id=DrWXvmB9ORxE&format=png&color=000000" alt="HoangLong1806-Zalo" />
   </a> -->
   <a href="https://www.linkedin.com/in/long-ho%C3%A0ng-346951301/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="HoangLong1806-linkedin" />
