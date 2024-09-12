@@ -6,7 +6,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="./images/java-svgrepo-com (10).png"  alt="Javalogo" title="Java" height="25" /></span>
+<span><img src="./images/java-svgrepo-com (11).png"  alt="Javalogo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
