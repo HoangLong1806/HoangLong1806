@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/hoanglongdev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/hoanglongdev.svg" width="1200" alt="Hoang Long Profile" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -64,6 +64,9 @@
     <span style="display: inline-flex; align-items: center; border: 2px solid #FFCA28; border-radius: 5px; padding: 5px 10px; background-color: #282C34;">
         <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
     </span>
+
+
+
 </div>
 
 
