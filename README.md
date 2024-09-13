@@ -6,9 +6,9 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-    <span style="display: inline-flex; align-items: center; border: 2px solid #aaaaa; border-radius: 5px; padding: 5px 10px; background-color: #282C34; color: #fffff; font-family: Arial, sans-serif; font-weight: bold;">
-        <img src="./images/java-svgrepo-com.svg" alt="Java logo" title="Java" height="25" style="margin-right: 5px;" /> Java
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 3px;">
+    <span style="display: inline-flex; align-items: center; border: 5px solid #edddd; border-radius: 5px; padding: 5px 10px; background-color: #282C34; color: #fffff; font-family: Arial, sans-serif; font-weight: bold;">
+        <img src="./images/java-svgrepo-com.svg" alt="Java logo" title="Java" height="19" style="margin-right: 5px;" /> Java
     </span>
     <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
     <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
